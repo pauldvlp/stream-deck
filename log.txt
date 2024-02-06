@@ -1,0 +1,7 @@
+
+> start
+> node src/main
+
+[server]: server running on http://localhost:2116
+[io]: socket connected; id: -iqSXJ0k7Sm_Vhv_AAAB
+El modificador no es v lido: "/WIN".

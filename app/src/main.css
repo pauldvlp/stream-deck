@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+
+  --ButtonBackground: #000;
+  --ScreenBackground: #0a0a0a;
+}
+
+hr {
+  margin-block: 1rem;
+}
+
+button {
+  font-family: Inter, system-ui, sans-serif;
+  font-weight: 600;
+  border: none;
+  outline: none;
+  transition-duration: 500ms;
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.9);
+}
+
+.shadow {
+  box-shadow: 1px 1px 3px #111,
+  2px 2px 3px #111,
+  3px 3px 3px #111,
+  inset 1px 1px 3px #191919,
+  inset 2px 2px 3px #191919,
+  inset 3px 3px 3px #191919;
+}
+
+.shadow img {
+  transform: translate(1.5px, 1.5px);
+}

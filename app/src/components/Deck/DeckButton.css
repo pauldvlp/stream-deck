@@ -1,0 +1,16 @@
+.DeckButton {
+  width: 100px;
+  height: 100px;
+  display: grid;
+  place-items: center;
+  background-color: var(--ButtonBackground);
+  border-radius: 16px;
+  border: 1px solid #111;
+}
+
+.DeckButton img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  object-position: center;
+}

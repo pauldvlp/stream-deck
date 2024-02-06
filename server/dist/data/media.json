@@ -1,0 +1,103 @@
+[
+  {
+    "id": "619d48b7-9add-4c81-b942-0c0bed92ce1f",
+    "scope": "brightness",
+    "action": "decrement",
+    "value": "10",
+    "icon": "low-brightness"
+  },
+  {
+    "id": "b18d4198-4c87-4550-a7f5-fd10e1898a07",
+    "scope": "brightness",
+    "action": "increment",
+    "value": "10",
+    "icon": "high-brightness"
+  },
+  {
+    "id": "80ae8b6c-55d8-4610-8497-42026dc04100",
+    "scope": "media",
+    "action": "prev",
+    "value": "",
+    "icon": "backward"
+  },
+  {
+    "id": "03b6056a-249a-42f5-ad9c-31bd091188ea",
+    "scope": "media",
+    "action": "playPause",
+    "value": "",
+    "icon": "play-pause"
+  },
+  {
+    "id": "82a407b1-f689-443d-ae24-299e4a1425ab",
+    "scope": "media",
+    "action": "next",
+    "value": "",
+    "icon": "forward"
+  },
+  {
+    "id": "36f61af1-c5f2-490a-9c22-c463714d8eae",
+    "scope": "audio",
+    "action": "decrement",
+    "value": "10",
+    "icon": "volume-minus"
+  },
+  {
+    "id": "6df57daa-cf13-4931-97cc-444955101e2b",
+    "scope": "audio",
+    "action": "toggleMute",
+    "value": "",
+    "icon": "volume-mute"
+  },
+  {
+    "id": "7f01ff06-bd01-4fa9-bc42-d096c5a7ec05",
+    "scope": "audio",
+    "action": "increment",
+    "value": "10",
+    "icon": "volume-plus"
+  },
+  {
+    "id": "b5eada8f-2bfb-4ded-914c-43328dcebf5a",
+    "scope": "computer",
+    "action": "shutdown",
+    "value": "",
+    "icon": "power",
+    "requiresConfirmation": true,
+    "title": "Apagar",
+    "description": "¿Estas seguro de apagar la computadora?"
+  },
+  {
+    "id": "9c99a047-f2c6-4b8a-b4b5-55c13881ce32",
+    "scope": "computer",
+    "action": "reboot",
+    "value": "",
+    "icon": "reload",
+    "requiresConfirmation": true,
+    "title": "Reiniciar",
+    "description": "¿Estas seguro de reiniciar la computadora?"
+  },
+  {
+    "id": "057ec4d5-afac-4617-8662-5a88e0682616",
+    "scope": "computer",
+    "action": "standby",
+    "value": "",
+    "icon": "moon",
+    "requiresConfirmation": true,
+    "title": "Suspender",
+    "description": "¿Estas seguro de suspender la computadora?"
+  },
+  {
+    "id": "35e94fcf-75b5-4966-a860-46fa74337b8c",
+    "scope": "computer",
+    "action": "logoff",
+    "icon": "logoff",
+    "requiresConfirmation": true,
+    "title": "Cerrar Sesión",
+    "description": "¿Estas seguro de cerrar sesión?"
+  },
+  {
+    "id": "d6d50a83-2b50-477b-ba52-7a8db913be22",
+    "scope": "computer",
+    "action": "lock",
+    "icon": "lock"
+  }
+]

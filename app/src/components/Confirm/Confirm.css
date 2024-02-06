@@ -1,0 +1,40 @@
+.Confirm {
+  max-width: 384px;
+  margin-inline: auto;
+  padding: 32px;
+  color: white;
+  background-color: var(--ScreenBackground);
+  border-radius: 8px;
+  border: 2px solid #111;
+}
+
+.Confirm h3 {
+  font-size: 24px;
+}
+
+.Confirm p {
+  margin-block: 16px 24px;
+  text-wrap: pretty;
+  line-height: 1.618;
+}
+
+.Confirm footer {
+  display: flex;
+  gap: 8px;
+  justify-content: end;
+}
+
+.Confirm button {
+  padding: 12px 32px;
+  font-size: 1rem;
+  color: white;
+  border-radius: 4px;
+}
+
+.Confirm button:first-child {
+  background-color: var(--ScreenBackground);
+}
+
+.Confirm button:last-child {
+  background-color: var(--ButtonBackground);
+}

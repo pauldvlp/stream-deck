@@ -1,0 +1,254 @@
+[
+  {
+    "id": "5358ffbf-3570-43e2-be08-0a3004698392",
+    "scope": "app",
+    "action": "open",
+    "value": "code",
+    "icon": "code"
+  },
+  {
+    "id": "3823b46b-7134-4421-83e1-96bfb6c599d9",
+    "scope": "app",
+    "action": "open",
+    "value": "chrome",
+    "icon": "chrome"
+  },
+  {
+    "id": "1ed70c54-ec81-4679-a0b8-7852a992d591",
+    "scope": "app",
+    "action": "open",
+    "value": "runjs",
+    "icon": "runjs"
+  },
+  {
+    "id": "92c07cd8-fe23-42a0-8ed5-0fbc28ad44aa",
+    "scope": "app",
+    "action": "open",
+    "value": "hyper",
+    "icon": "hyper"
+  },
+  {
+    "id": "8b2b6516-b605-49ab-beac-7191ccb4c98b",
+    "scope": "app",
+    "action": "open",
+    "value": "discord",
+    "icon": "discord"
+  },
+  {
+    "id": "84130e9c-d354-49ea-ad26-9fb4f79f222d",
+    "scope": "app",
+    "action": "open",
+    "value": "injustice2",
+    "icon": "injustice2"
+  },
+  {
+    "id": "dd475d5a-077a-468f-b134-1c30cae9a878",
+    "scope": "app",
+    "action": "open",
+    "value": "blur",
+    "icon": "blur"
+  },
+  {
+    "id": "9053d813-887c-49f7-b685-46e0f87e2f04",
+    "scope": "app",
+    "action": "open",
+    "value": "gtav",
+    "icon": "gtav"
+  },
+  {
+    "id": "f6345506-357b-4195-937e-f35c35a01fba",
+    "scope": "app",
+    "action": "open",
+    "value": "speedstorm",
+    "icon": "speedstorm"
+  },
+  {
+    "id": "5b91dd56-bd81-4319-95bf-952d6a251dc4",
+    "scope": "app",
+    "action": "open",
+    "value": "steam",
+    "icon": "steam"
+  },
+  {
+    "id": "95298672-d532-40aa-a569-801da6523811",
+    "scope": "app",
+    "action": "open",
+    "value": "anydesk",
+    "icon": "anydesk"
+  },
+  {
+    "id": "aac9bf68-235b-4229-9cde-2169a0a97e42",
+    "scope": "app",
+    "action": "open",
+    "value": "notepad",
+    "icon": "notepad"
+  },
+  {
+    "id": "443d77e5-0ed4-44f6-b8a0-ace0a2c90dfd",
+    "scope": "app",
+    "action": "open",
+    "value": "settings",
+    "icon": "settings"
+  },
+  {
+    "id": "f181dcf6-a4b3-4968-b3ad-8ac644761278",
+    "scope": "app",
+    "action": "open",
+    "value": "explorer",
+    "icon": "explorer"
+  },
+  {
+    "id": "92823d25-1e71-4d58-9c35-6354cca6fd63",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://open.spotify.com",
+    "icon": "spotify"
+  },
+  {
+    "id": "fdc4e160-1464-4e49-ac8c-1c0f4831220f",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://web.whatsapp.com",
+    "icon": "whatsapp"
+  },
+  {
+    "id": "6b48f8c9-16f6-4187-9c20-69dc78803e02",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://google.com",
+    "icon": "google"
+  },
+  {
+    "id": "9fe5b879-d0f1-405b-9e44-29366db4a22c",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://paulbarahona.com",
+    "icon": "paul"
+  },
+  {
+    "id": "bd8e3277-580c-46c3-9b19-cd7c3e5fccab",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://youtube.com",
+    "icon": "youtube"
+  },
+  {
+    "id": "13cdc5af-9b3f-483f-9cec-edb61a4c6351",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://figma.com",
+    "icon": "figma"
+  },
+  {
+    "id": "1e692af9-287e-4a9c-934f-2c90d88abf0f",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://pinterest.com",
+    "icon": "pinterest"
+  },
+  {
+    "id": "1a0ba146-30dc-4827-8505-473dd7788b12",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://chat.openai.com",
+    "icon": "chatgpt"
+  },
+  {
+    "id": "8afa3b83-c378-4020-95dd-fa3af4a89090",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://translate.google.com",
+    "icon": "translate"
+  },
+  {
+    "id": "a65131fd-b4c6-4e11-992f-0ec6568a1acd",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://idx.google.com",
+    "icon": "idx"
+  },
+  {
+    "id": "334c1a05-7739-45d2-99f3-475557bb9097",
+    "scope": "app",
+    "action": "open",
+    "value": "cmd",
+    "icon": "cmd"
+  },
+  {
+    "id": "c0ed05f2-21d4-4be8-97c1-7f1bee430ccd",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://netflix.com",
+    "icon": "netflix"
+  },
+  {
+    "id": "13fa2b88-f95a-4281-b7c3-d7479dd36792",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://facebook.com",
+    "icon": "facebook"
+  },
+  {
+    "id": "8394322c-1553-4246-b796-15d1e849177b",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://instagram.com",
+    "icon": "instagram"
+  },
+  {
+    "id": "6c585d65-b8d9-4d80-827c-e460556e0519",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://x.com",
+    "icon": "x"
+  },
+  {
+    "id": "f18318ee-f7fb-4429-b519-b0d62149dfc9",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://bard.google.com",
+    "icon": "bard"
+  },
+  {
+    "id": "9fe5b879-d0f1-405b-9e44-29366db4a22c",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://midu.dev",
+    "icon": "midudev"
+  },
+  {
+    "id": "8394322c-1553-4246-b796-15d1e849177b",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://github.com",
+    "icon": "github"
+  },
+  {
+    "id": "6c585d65-b8d9-4d80-827c-e460556e0519",
+    "scope": "app",
+    "action": "open",
+    "value": "photos",
+    "icon": "photos"
+  },
+  {
+    "id": "f18318ee-f7fb-4429-b519-b0d62149dfc9",
+    "scope": "internet",
+    "action": "website",
+    "value": "https://mail.google.com",
+    "icon": "gmail"
+  },
+  {
+    "id": "0d1aa590-a55e-440b-90b2-120abc1f5234",
+    "scope": "app",
+    "action": "open",
+    "value": "taskmgr",
+    "icon": "taskmgr"
+  },
+  {
+    "id": "5a0f03cd-d17b-4f23-8490-98b599abf792",
+    "scope": "computer",
+    "action": "emptybin",
+    "value": "",
+    "icon": "trash"
+  }
+]

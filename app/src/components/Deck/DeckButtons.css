@@ -1,0 +1,6 @@
+.DeckButtons {
+  padding: 24px;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 16px;
+}

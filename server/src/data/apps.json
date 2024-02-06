@@ -1,0 +1,68 @@
+{
+  "chrome": {
+    "path": "C:/Users/D14(r5)/AppData/Local/Google/Chrome SxS/Application/",
+    "file": "chrome.exe"
+  },
+  "discord": {
+    "path": "C:/Users/D14(r5)/AppData/Local/Discord/",
+    "file": "Update.exe --processStart Discord.exe"
+  },
+  "anydesk": {
+    "path": "C:/Program Files (x86)/AnyDesk/",
+    "file": "AnyDesk.exe"
+  },
+  "blur": {
+    "path": "C:/Users/D14(r5)/Games/Blur/",
+    "file": "Blur.exe"
+  },
+  "taskmgr": {
+    "path": "%windir%/system32/",
+    "file": "taskmgr.exe /7"
+  },
+  "steam": {
+    "path": "C:/Program Files (x86)/Steam/",
+    "file": "Steam.exe",
+    "lnk": true
+  },
+  "injustice2": {
+    "path": "C:/Users/D14(r5)/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Steam/",
+    "file": "Injustice™ 2.url"
+  },
+  "code": {
+    "path": "C:/Users/D14(r5)/AppData/Local/Programs/Microsoft VS Code/",
+    "file": "Code.exe",
+    "command": "code"
+  },
+  "speedstorm": {
+    "path": "C:/Program Files/Epic Games/DisneySpeedstorm/",
+    "file": "Disney_Speedstorm_x64_rtl.exe"
+  },
+  "explorer": {
+    "command": "start C:/Users/D14(r5)/Downloads"
+  },
+  "hyper": {
+    "path": "C:/Users/D14(r5)/AppData/Local/Programs/Hyper/",
+    "file": "Hyper.exe"
+  },
+  "runjs": {
+    "path": "C:/Users/D14(r5)/AppData/Roaming/Microsoft/Windows/Start Menu/Programs",
+    "file": "RunJS.lnk",
+    "lnk": true
+  },
+  "gtav": {
+    "path": "C:/Program Files/Rockstar Games/Grand Theft Auto V/",
+    "file": "PlayGTAV.exe"
+  },
+  "settings": {
+    "command": "start ms-settings:system"
+  },
+  "notepad": {
+    "command": "start notepad"
+  },
+  "cmd": {
+    "command": "start wt"
+  },
+  "photos": {
+    "command": "start ms-photos:"
+  }
+}

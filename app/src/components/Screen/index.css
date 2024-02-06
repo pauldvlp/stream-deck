@@ -1,0 +1,8 @@
+.Screen {
+  min-height: 100vh;
+  padding: 32px;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  background-color: var(--ScreenBackground);
+}

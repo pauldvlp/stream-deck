@@ -1,0 +1,17 @@
+.MediaButton {
+  width: 64px;
+  height: 64px;
+  display: grid;
+  place-items: center;
+  border-radius: 64px;
+  background-color: var(--ButtonBackground);
+  box-shadow: 0 0 10px rgba(13, 13, 13, 0.25);
+  border: 2px solid #111;
+}
+
+.MediaButton img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  object-position: center;
+}

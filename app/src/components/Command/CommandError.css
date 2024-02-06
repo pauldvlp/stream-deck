@@ -1,0 +1,25 @@
+.CommandError {
+  max-width: 512px;
+  margin-inline: auto;
+  padding: 32px;
+  background-color: var(--ScreenBackground);
+  border-radius: 8px;
+  border: 2px solid #111;
+  color: white;
+}
+
+.CommandError header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.CommandError header h3 {
+  font-size: 24px;
+}
+
+.CommandError hr {
+  height: 1px;
+  background-color: var(--ButtonBackground);
+  border: none;
+}

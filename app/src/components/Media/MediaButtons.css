@@ -1,0 +1,5 @@
+.MediaButtons {
+  padding: 24px;
+  display: flex;
+  gap: 16px;
+}
